@@ -1,0 +1,88 @@
+body{
+    text-align: center;
+    background-color:#EEEEEE;
+font-family: 'Patrick Hand', cursive;
+color:#003638;
+}
+
+
+
+#thingsilearn{
+    display: none;
+}
+#navbar8{
+    background-color: black;
+    color: whitesmoke;
+
+}
+#navbar8{
+    color: rgb(78, 4, 78);
+}
+#header{
+    background-color:black;
+    color:white;
+}
+#tour{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color:black;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  #tour:hover{
+      background-color:purple
+    }
+  
+ #tour:active {
+    background-color:purple;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);}
+
+ 
+#goal{font-family: 'Patrick Hand', cursive;}
+p{font-family: 'Patrick Hand', cursive;}
+.profilepic{
+    width: 50px;
+    height: 50px;
+}
+
+
+#welx{
+    width: 500px;
+    height: 450px;
+}
+#learn{
+    width:900px;
+}
+#quicklinks{
+    background-color: black;
+    color: ghostwhite;
+text-align: left;}
+.links{
+color: ghostwhite;
+text-decoration: none;
+}
+#header-logo{
+    width: 50px;
+    height: 50px;
+}
+#logo{
+width: 250px;
+height: 300px;
+}
+#lamp{
+    height:300px;
+    width:300px;
+}
+::selection {
+    color: white;
+    background: turquoise;
+  }

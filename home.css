@@ -1,0 +1,36 @@
+#announcement{
+    border-radius: 25px;
+    background-color: #0D7377;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+}
+body{
+    background-color: #EEEEEE;
+    color:#003638;
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+}
+
+#logo{
+    width: 250px;
+    height: 300px;
+    }
+#header{
+    background-color: black;
+}
+#notebook_Poetry{
+    width: 150px;
+    height: 150px;
+}
+#navbar8{
+    background-color: black;
+    color: whitesmoke;
+
+}
+#navbar8{
+    color: rgb(78, 4, 78);
+}
+#header{
+    background-color:black;
+    color:white;
+}

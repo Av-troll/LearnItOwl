@@ -1,0 +1,100 @@
+
+.make{
+    background-color:#EEEEEE;
+}
+body{
+    text-align: center;
+font-family: 'Patrick Hand', cursive;
+}
+#navbar8{
+    background-color:black;
+    color: whitesmoke;
+
+}
+#logo{
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+#navbar8:hover{
+    color: rgb(78, 4, 78);
+}
+#header{
+    background-color: black;
+    color:white;
+}
+
+#slidesa{
+    width: 300px;
+    height: 200px;
+}
+.alldone{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color:black;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  #logo{
+    width: 250px;
+    height: 300px;
+    }
+  .alldone:hover{
+      background-color:purple
+    }
+  
+ .alldone:active {
+    background-color:purple;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);}
+
+    .movie_head
+{
+    font-size: 20px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+.boxythingy{
+    border-radius: 25px;
+    width: 350px;
+    height: 500px;
+    background-color: cadetblue;
+    color:white;
+}
+.boxyimg{
+    width: 350px;
+    height:250px;
+    border-radius: 25px;
+}
+#leftbutton{
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    background-color: turquoise;
+    color: white;
+  
+}
+#rightbutton{
+    border-radius: 25px;
+    width: 50px;
+    height: 50px;
+    background-color: turquoise;
+    color: white;
+
+}
+::selection {
+    color: white;
+    background: turquoise;
+  }
